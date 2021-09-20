@@ -18,7 +18,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=guidorosario&show_icons=true&count_private=true&hide=contribs,issues&theme=dracula" alt="AnhellO :: Profile Stats" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=guidorosario&show_icons=true&count_private=true&hide=contribs,issues&theme=chartreuse-dark" alt="AnhellO :: Profile Stats" /></p>
 
 ## Contact me here:
  <a href="https://www.linkedin.com/in/guilherme-almeida-b812b3141" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
