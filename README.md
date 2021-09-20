@@ -1,7 +1,7 @@
 
 
 
-		- 🔭 I’m currently working on:      Ame Digital Jr. Software Engineer,
+		- 🔭 I’m currently working on:      Ame Digital as a Java back-end developer,
     
 		- 🌱 I’m currently learning:        Software Design & Architecture, Kotlin, AWS Devops,
     
