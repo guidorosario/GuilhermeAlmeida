@@ -24,4 +24,4 @@
 ## Contact me here:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-![snake gif](https://github.com/guidorosario/GuilhermeAlmeida/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/guidorosario/guidorosario/blob/output/github-contribution-grid-snake.gif)
