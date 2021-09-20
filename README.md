@@ -23,4 +23,4 @@
 ## Contact me here:
  <a href="https://www.linkedin.com/in/guilherme-almeida-b812b3141" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![snake gif](https://github.com/guidorosario/guidorosario/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/guidorosario/guidorosario/blob/output/github-contribution-grid-snake.svg)
