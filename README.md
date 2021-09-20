@@ -1,4 +1,4 @@
-![ezgif-2-12f99fdba03b](https://user-images.githubusercontent.com/41172349/129429785-ac1369b5-aa91-40cc-854f-084df42f8828.gif)
+
 
 
 		- 🔭 I’m currently working on:      Ame Digital Jr. Software Engineer,
