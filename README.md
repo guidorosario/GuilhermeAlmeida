@@ -1,9 +1,7 @@
 
 
 
-		- 🔭 I’m currently working on:      Ame Digital as a Java back-end developer,
-    
-		- 🌱 I’m currently learning:        Software Design & Architecture, Kotlin, AWS Devops,
+		- 🔭 I’m currently working on:      Ame Digital as a Java back-end developer, 		
     
 		- 🤔 I’m looking for help with:     Anything related to what I am currently learning 😅,
     
